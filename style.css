@@ -1,4 +1,6 @@
-.desired{
+.desired.text{
     background-color: yellow;
     color: red;
+    position: absolute;
+    align-content: center;
 }
